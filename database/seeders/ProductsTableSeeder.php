@@ -28,7 +28,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => 17,
+                'category_id' => 2,
                 'code' => 'coca-cola-5-pack',
                 'name' => 'Coca-Cola 5 Pack',
                 'price' => '19.99',
