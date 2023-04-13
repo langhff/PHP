@@ -102,7 +102,7 @@ class ProductsTableSeeder extends Seeder
                 'image' => 'products/HvZIwlhymK0FuGXHZz6PYKM022yNhV4ofjl8GKcG.bin',
                 'new' => '0',
                 'sale' => '0',
-                'old_price' => '3   .99',
+                'old_price' => '3.99',
             ],
             [
                 'category_id' => 3,
