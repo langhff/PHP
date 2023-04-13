@@ -17,7 +17,7 @@ class ProductsTableSeeder extends Seeder
     {
         DB::table('products')->insert([
             [
-                'category_id' => '3',
+                'category_id' => 3,
                 'code' => 'candy-bear-5-pack',
                 'name' => 'Candy Bear 5 Pack',
                 'price' => '19.99',
@@ -28,7 +28,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '17',
+                'category_id' => 17,
                 'code' => 'coca-cola-5-pack',
                 'name' => 'Coca-Cola 5 Pack',
                 'price' => '19.99',
@@ -39,7 +39,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '2',
+                'category_id' => 2,
                 'code' => 'i-heart',
                 'name' => 'I Heart',
                 'price' => '4.99',
@@ -50,7 +50,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '4',
+                'category_id' => 4,
                 'code' => 'llama',
                 'name' => 'Llama',
                 'price' => '4.99',
@@ -61,7 +61,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '5.99',
             ],
             [
-                'category_id' => '2',
+                'category_id' => 2,
                 'code' => 'minecraft-5-pack',
                 'name' => 'MINECRAFT 5 PACK',
                 'price' => '19.99',
@@ -72,7 +72,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '2',
+                'category_id' => 2,
                 'code' => 'patrick',
                 'name' => 'Patrick',
                 'price' => '4.99',
@@ -83,7 +83,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '6.99',
             ],
             [
-                'category_id' => '4',
+                'category_id' => 4,
                 'code' => 'paw-print',
                 'name' => 'Paw Print',
                 'price' => '4.99',
@@ -94,7 +94,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '6.99',
             ],
             [
-                'category_id' => '4',
+                'category_id' => 4,
                 'code' => 'pink-rubber-ducky',
                 'name' => 'Pink Rubber Ducky',
                 'price' => '2.99',
@@ -105,7 +105,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '3   .99',
             ],
             [
-                'category_id' => '3',
+                'category_id' => 3,
                 'code' => 'pizza-slice',
                 'name' => 'Pizza Slice',
                 'price' => '4.99',
@@ -116,7 +116,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '6.99',
             ],
             [
-                'category_id' => '2',
+                'category_id' => 2,
                 'code' => 'super-mario-5-pack',
                 'name' => 'Super Mario 5 Pack',
                 'price' => '19.99',
@@ -127,7 +127,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '3',
+                'category_id' => 3,
                 'code' => 'taco-tuesday-5-pack',
                 'name' => 'Taco Tuesday 5 Pack',
                 'price' => '19.99',
@@ -138,7 +138,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '4',
+                'category_id' => 4,
                 'code' => 'under-the-sea-3-pack',
                 'name' => 'Under The Sea 3 Pack',
                 'price' => '19.99',
@@ -149,7 +149,7 @@ class ProductsTableSeeder extends Seeder
                 'old_price' => '0',
             ],
             [
-                'category_id' => '2',
+                'category_id' => 2,
                 'code' => 'young-girl-cartoons-5-pack',
                 'name' => 'Young Girl Cartoons 5 Pack',
                 'price' => '19.99',
