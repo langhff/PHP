@@ -54,7 +54,7 @@ class ProductsTableSeeder extends Seeder
                 'code' => 'llama',
                 'name' => 'Llama',
                 'price' => '4.99',
-                'description' => 'Show off your love for these cute and friendly pack animals with the colorful Llama Jibbitz™ charm. Also great if you love the beautiful countries of South America!',
+                'description' => 'Show off your llove for these cute and friendly pack animals with the colorful Llama Jibbitz™ charm. Also great if you love the beautiful countries of South America!',
                 'image' => 'products/llama-1.bin',
                 'new' => '1',
                 'sale' => '0',
